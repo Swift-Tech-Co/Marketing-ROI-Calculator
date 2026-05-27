@@ -1,0 +1,12 @@
+{
+  "name": "marketing-roi-calculator",
+  "version": "1.0.0",
+  "description": "Marketing ROI calculator — leads, CPA, and 12-month ROI by channel and industry — Swift Tech Co.",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": ["marketing", "roi", "seo", "ppc", "calculator", "swift-tech-co"],
+  "license": "MIT",
+  "homepage": "https://swifttechco.com/services/marketing/seo-marketing"
+}
